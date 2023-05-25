@@ -57,6 +57,7 @@ career-profile:
     title: Career Profile
     summary: |
       Summarise your career here.
+
 education:
     title: Education
     info:
@@ -78,6 +79,7 @@ experiences:
           Beyond my main responsibilities associated with my role, I had to assist my committee in other tasks such as hosting dinners for
           hundreds of people, procure sponsorships, hold tournaments, and more. This taught me valuable leadership and teamworking skills.
 
+projects:
     title: Projects
     intro: >
       You can list your side projects in this
