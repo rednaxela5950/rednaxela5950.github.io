@@ -86,25 +86,17 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Neuroevolution
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Neuroevolution for Automated Driving
+        link: "alexander.sellstrom.me/assets/NCML.pdf"
+        tagline: "Genetic algorithms for self-driving cars with spatial awareness in a simulated environment."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Carsbnb
+        link: "alexander.sellstrom.me/assets/Carsbnb.pdf"
+        tagline: "A cross-platform mobile application written in Flutter for renting privately owned vehicles. Like Airbnb but for cars."
 
       - title: Tempo
-        link: "#"
+        link: "alexander.sellstrom.me/assets/ASD.pdf"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS
@@ -140,7 +132,7 @@ skills:
       - name: Firebase
         level: 50%
 
-      - name: Javascript/Typescript and Node
+      - name: Typescript and Node
         level: 70%
 
       - name: Svelte
