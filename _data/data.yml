@@ -79,6 +79,12 @@ experiences:
           Beyond my main responsibilities associated with my role, I had to assist my committee in other tasks such as hosting dinners for
           hundreds of people, procure sponsorships, hold tournaments, and more. This taught me valuable leadership and teamworking skills.
 
+      - role: Test Engineer
+        time: Summer of 2021
+        company: <a href="https://certify.health/" target="_blank" rel="nofollow">Certify Health</a>
+        details: |
+          Wrote unit tests for SaaS to issue EUDCC Covid Certificates.
+
 projects:
     title: Projects
     intro: >
