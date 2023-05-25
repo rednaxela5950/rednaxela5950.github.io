@@ -110,7 +110,7 @@ oss:
       You can list your open source software contributions in this
       section.
     contributions:
-      title: Lorem
+    - title: Lorem
       link: '#'
       tagline: "Ipsum dolor sit amet"
 
