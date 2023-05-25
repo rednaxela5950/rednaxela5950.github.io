@@ -65,7 +65,7 @@ education:
         university: Uppsala University
         time: 2017 -
         details: |
-          A 300 credit engineering program.
+          A 300 credit engineering program that covers everything from electrical engineering and assembly to HCI and web development. I've chosen the software development specialization for the two final years.
 
 experiences:
     title: Experiences
@@ -82,20 +82,24 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are some projects that I've completed during my time at Uppsala University.
     assignments:
-      - title: Neuroevolution for Automated Driving
-        link: "alexander.sellstrom.me/assets/NCML.pdf"
+      - title: "Neuroevolution for Automated Driving"
+        link: "https://github.com/rednaxela5950/rednaxela5950.github.io/blob/ec1481ed0f44863f8fa1d2d8ee28880b31df4a67/assets/papers/NCML.pdf"
         tagline: "Genetic algorithms for self-driving cars with spatial awareness in a simulated environment."
 
       - title: Carsbnb
-        link: "alexander.sellstrom.me/assets/Carsbnb.pdf"
+        link: "https://github.com/rednaxela5950/rednaxela5950.github.io/blob/ec1481ed0f44863f8fa1d2d8ee28880b31df4a67/assets/papers/Carsbnb.pdf"
         tagline: "A cross-platform mobile application written in Flutter for renting privately owned vehicles. Like Airbnb but for cars."
 
-      - title: Tempo
-        link: "alexander.sellstrom.me/assets/ASD.pdf"
+      - title: MATCH
+        link: "https://github.com/rednaxela5950/rednaxela5950.github.io/blob/ec1481ed0f44863f8fa1d2d8ee28880b31df4a67/assets/papers/ASD.pdf"
+        tagline: "MATCH is a software infrastructure that provides mechanisms for matching users requiring
+          information or services with potential suppliers of such information or services. The primary
+          goal of the MATCH system is to connect people to other people in the most effective way."
+
+      - title: PartyZone
+        link: "https://github.com/uu-os-2019/dsp-hallon"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 oss:
@@ -157,6 +161,9 @@ skills:
         level: 15%
 
       - name: SQL
+        level: 50%
+
+      - name: React Native and Expo
         level: 40%
 
 footer: >
