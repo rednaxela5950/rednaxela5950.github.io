@@ -109,6 +109,10 @@ oss:
     intro: >
       You can list your open source software contributions in this
       section.
+    contributions:
+      title: Lorem
+      link: '#'
+      tagline: "Ipsum dolor sit amet"
 
 publications:
     title: Publications
