@@ -137,7 +137,9 @@ p {
       color: rgba(256, 256, 256, 0.6);
     }
   }
-
+  .remove-container {
+    display: none;
+  }
   .languages-list {
     margin-bottom: 0;
     li {
