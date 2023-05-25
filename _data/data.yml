@@ -20,7 +20,7 @@ sidebar:
     linkedin: alexander-sellström-03b063233
     xing: 
     github: rednaxela5950
-    telegram: +46 70 830 6181 # add your nickname without '@' sign
+    telegram: +46708306181 # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@rednaxela5950'
@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here.
+      I'm nearing the end of the academic chapter of my life. In the past year or so I've taken a particular interest in decentralized systems, which is what I hope to work with in the future.
 
 education:
     title: Education
@@ -102,15 +102,15 @@ projects:
         link: "https://github.com/uu-os-2019/dsp-hallon"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-oss:
-    title: OSS
-    intro: >
-      You can list your open source software contributions in this
-      section.
-    contributions:
-    - title: Lorem
-      link: '#'
-      tagline: "Ipsum dolor sit amet"
+# oss:
+#     title: OSS
+#     intro: >
+#       You can list your open source software contributions in this
+#       section.
+#     contributions:
+#     - title: Lorem
+#       link: '#'
+#       tagline: "Ipsum dolor sit amet"
 
 publications:
     title: Publications
