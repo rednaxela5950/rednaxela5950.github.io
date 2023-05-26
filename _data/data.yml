@@ -70,6 +70,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Test Engineer
+        time: Summer of 2021
+        company: <a href="https://certify.health/" target="_blank" rel="nofollow">Certify Health</a>
+        details: |
+          Wrote unit tests for SaaS to issue EUDCC Covid Certificates.
+
       - role: Power - Electricity and Volunteer Manager for <a href="https://polhacks.utn.se/" target="_blank" rel="nofollow">Polhacks</a>
         time: 2017 - 2018
         company: <a href="https://www.utn.se/" target="_blank" rel="nofollow">Uppsala Union of Engineering and Science Students (UTN)</a>
@@ -78,12 +84,6 @@ experiences:
           ~40 volunteer workers and planning, procuring, and installing the equipment nessescary for powering hundreds of computers.
           Beyond my main responsibilities associated with my role, I had to assist my committee in other tasks such as hosting dinners for
           hundreds of people, procure sponsorships, hold tournaments, and more. This taught me valuable leadership and teamworking skills.
-
-      - role: Test Engineer
-        time: Summer of 2021
-        company: <a href="https://certify.health/" target="_blank" rel="nofollow">Certify Health</a>
-        details: |
-          Wrote unit tests for SaaS to issue EUDCC Covid Certificates.
 
 projects:
     title: Projects
