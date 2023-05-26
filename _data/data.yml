@@ -106,7 +106,7 @@ projects:
 
       - title: PartyZone
         link: "https://github.com/uu-os-2019/dsp-hallon"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A cross-platform jukebox app that lets you create a kahoot-like session. People in the session can queue songs upvote and downvote songs, changing their position in the queue."
 
 # oss:
 #     title: OSS
@@ -173,4 +173,3 @@ skills:
         level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
